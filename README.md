@@ -1,5 +1,5 @@
 # LS- NN & LLM Final Project: English to French Translator
-## Background
+## Task
 Translation of text is very impoertant to communication. Most of us have needed a translator at some point. This project aims to build a simple English to French translator by leveraging the efficiency of the T5 (Text-to-Text Transfer Transformer) model to provide fast and accurate French text.
 
 ## Why T5?
